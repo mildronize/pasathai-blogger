@@ -29,6 +29,7 @@
 - [JavaBoom](https://javaboom.wordpress.com/)
 - [botbotbot's blog](http://dev.im-bot.com/)
 - [Mildronize](http://dev.mildronize.com)
+- [KongRusiam](http://kongruksiamblogger.blogspot.com)
 
 ## ใบอนุญาต (License)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
