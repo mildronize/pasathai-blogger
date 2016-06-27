@@ -1,5 +1,5 @@
 # บล็อกเกอร์ภาษาไทย (Pasathai Blogger)
-ได้รับแรงบันดาลใจมากจาก [Awesome](https://github.com/sindresorhus/awesome)
+ได้รับแรงบันดาลใจมาจาก [Awesome](https://github.com/sindresorhus/awesome)
 
 ## อะไรคือ pasathai-blogger
 **pasathai-blogger** หรือ **บล็อกเกอร์ภาษาไทย** เป็น แหล่งรวบรวมบล็อคเกอร์ที่เกี่ยวข้องกับเทคโนโลยีที่เป็นคนไทย
