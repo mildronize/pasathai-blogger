@@ -52,6 +52,7 @@
 ## Facebook Page
 - [DataScienceTh](https://www.facebook.com/DataScienceTh/)
 - [DataRookie](https://www.facebook.com/datarockie/)
+- [Data Science ชิลชิล](https://m.facebook.com/datasciencechill/)
 
 ## Medium
 
