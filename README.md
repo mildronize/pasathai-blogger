@@ -13,6 +13,8 @@
 
 ผมจึงใคร่ขออนุญาตบล็อกเกอร์ทุกๆ ท่านเพื่อใช้ในการนี้ด้วย ขอบคุณมากครับ
 
+- [สมาคมโปรแกรมเมอร์ไทย](https://thaiprogrammer.org)
+
 ## รายชื่อของบล็อกเกอร์ (A List of bloggers)
 
 - [devahoy](http://devahoy.com/)
@@ -29,10 +31,14 @@
 - [Kotchaphan Muangsan](https://medium.com/@werockstar)
 - [Akexorcist](http://www.akexorcist.com/)
 - [JavaBoom](https://javaboom.wordpress.com/)
-- [botbotbot's blog](http://dev.im-bot.com/)
+- [botbotbot's blog](http://dev.im-bot.com/) [his medium](https://medium.com/@ibot.out)
 - [Mildronize](http://dev.mildronize.com)
 - [KongRusiam](http://kongruksiamblogger.blogspot.com)
 - [tupleblog](https://tupleblog.github.io)
+
+### software development
+- [welovebug](https://welovebug.com)
+- [korn4d](https://korn4d.com)
 
 
 ## Facebook Page
