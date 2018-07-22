@@ -39,6 +39,7 @@
 - [tupleblog](https://tupleblog.github.io)
 - [python3 wannaphong](https://python3.wannaphong.com)
 - [rkorakot](https://rkorakot.blogspot.com)
+- [ta-tonthongkam](https://medium.com/ta-tonthongkam)
 
 ### software development
 - [welovebug](https://welovebug.com)
