@@ -61,6 +61,8 @@
 - [Data Science ชิลชิล](https://m.facebook.com/datasciencechill/)
 
 ## Medium
+- [Jiratawee](https://medium.com/@jirawatee)
+- [TiMeFF](https://medium.com/@timeff)
 
 ## หนังสือฟรี
 - [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/)
