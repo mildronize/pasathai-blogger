@@ -1,5 +1,6 @@
 # บล็อกเกอร์ภาษาไทย (Pasathai Blogger)
-ได้รับแรงบันดาลใจมาจาก [Awesome](https://github.com/sindresorhus/awesome)
+ได้รับแรงบันดาลใจมาจาก [Awesome](https://github.com/sindresorhus/awesome) 
+ตอนนี้ เน้นรวบรวมข้อมูลภาษาไทยทั้งหมดก่อนครับ
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -31,15 +32,20 @@
 - [Kotchaphan Muangsan](https://medium.com/@werockstar)
 - [Akexorcist](http://www.akexorcist.com/)
 - [JavaBoom](https://javaboom.wordpress.com/)
-- [botbotbot's blog](http://dev.im-bot.com/) [his medium](https://medium.com/@ibot.out)
+- [botbotbot's blog](http://dev.im-bot.com/) ,[his medium](https://medium.com/@ibot.out)
 - [Mildronize](http://dev.mildronize.com)
 - [KongRusiam](http://kongruksiamblogger.blogspot.com)
 - [tupleblog](https://tupleblog.github.io)
+- [python3 wannaphong](https://python3.wannaphong.com)
+- [rkorakot](https://rkorakot.blogspot.com)
 
 ### software development
 - [welovebug](https://welovebug.com)
 - [korn4d](https://korn4d.com)
 
+# ข่าว
+- [Blognone](https://www.blognone.com)
+- [techtalkthai.com](https://www.techtalkthai.com)
 
 ## Facebook Page
 - [DataScienceTh](https://www.facebook.com/DataScienceTh/)
@@ -47,6 +53,13 @@
 
 ## Medium
 
+## หนังสือฟรี
+- [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/)
+- [โครงสร้างข้อมูล ฉบับภาษาจาวา](https://www.cp.eng.chula.ac.th/books/ds-vjjv/#)
+- [ปัญญาประดิษฐ์](https://www.cp.eng.chula.ac.th/books/ai/)
+- [หนังสือ Programming expert with Python โดย ผศ สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf)
+- [สร้างอินเทอร์เน็ตเซิร์ฟเวอร์ด้วยลีนุกซ์](https://linux.thai.net/~ott/books/linuxbook1/)
+- [หัดใช้ Command-line Interface เถอะ](https://leanpub.com/lets_learn_cli_right_now)
 
 ## ร่วมกันปรับปรุงข้อมูลได้ผ่านทาง Pull request ได้เลยครับ
 You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
