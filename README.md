@@ -1,6 +1,8 @@
 # บล็อกเกอร์ภาษาไทย (Pasathai Blogger)
 ได้รับแรงบันดาลใจมาจาก [Awesome](https://github.com/sindresorhus/awesome)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ## อะไรคือ pasathai-blogger
 **pasathai-blogger** หรือ **บล็อกเกอร์ภาษาไทย** เป็น แหล่งรวบรวมบล็อคเกอร์ที่เกี่ยวข้องกับเทคโนโลยีที่เป็นคนไทย
 
@@ -39,6 +41,9 @@
 
 ## Medium
 
+
+## ร่วมกันปรับปรุงข้อมูลได้ผ่านทาง Pull request ได้เลยครับ
+You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 ## ใบอนุญาต (License)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
