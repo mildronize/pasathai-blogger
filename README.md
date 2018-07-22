@@ -40,6 +40,8 @@
 - [python3 wannaphong](https://python3.wannaphong.com)
 - [rkorakot](https://rkorakot.blogspot.com)
 - [ta-tonthongkam](https://medium.com/ta-tonthongkam)
+- [https://medium.com/@chawannut157](https://medium.com/@chawannut157)
+- [https://medium.com/@woraperth](https://medium.com/@woraperth)
 
 
 ### data science
