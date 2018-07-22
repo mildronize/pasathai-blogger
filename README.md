@@ -41,6 +41,10 @@
 - [rkorakot](https://rkorakot.blogspot.com)
 - [ta-tonthongkam](https://medium.com/ta-tonthongkam)
 
+
+### data science
+- [growthbee.com](https://www.growthbee.com)
+
 ### software development
 - [welovebug](https://welovebug.com)
 - [korn4d](https://korn4d.com)
