@@ -30,6 +30,15 @@
 - [botbotbot's blog](http://dev.im-bot.com/)
 - [Mildronize](http://dev.mildronize.com)
 - [KongRusiam](http://kongruksiamblogger.blogspot.com)
+- [tupleblog](https://tupleblog.github.io)
+
+
+## Facebook Page
+- [DataScienceTh](https://www.facebook.com/DataScienceTh/)
+- [DataRookie](https://www.facebook.com/datarockie/)
+
+## Medium
+
 
 ## ใบอนุญาต (License)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
