@@ -20,11 +20,9 @@
 
 - [babelcoder](https://www.babelcoder.com)
 - [devahoy](http://devahoy.com/)
-- [Layer NET](http://www.layer-net.com/)
 - [nuuneoi](https://nuuneoi.com/)
 - [In the cheese factory](https://inthecheesefactory.com)
 - [Somkiat](http://www.somkiat.cc/)
-- [Martroutine (Tanathip Viriya)](http://blog.martroutine.com/)
 - [Ethan's blog](http://www.artit-k.com/)
 - [Arnondora](https://www.arnondora.in.th/)
 - [Kamonway](http://www.kamonway.com/)
