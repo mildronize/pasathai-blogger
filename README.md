@@ -69,6 +69,7 @@
 - [หนังสือ Programming expert with Python โดย ผศ สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf)
 - [สร้างอินเทอร์เน็ตเซิร์ฟเวอร์ด้วยลีนุกซ์](https://linux.thai.net/~ott/books/linuxbook1/)
 - [หัดใช้ Command-line Interface เถอะ](https://leanpub.com/lets_learn_cli_right_now)
+- [2011 [แอจไจล์ซามูไร] - roofimon](http://www.roofimon.com/wp-content/uploads/2016/03/20140522103644_AgileSamurai1.0.pdf)
 
 ## ร่วมกันปรับปรุงข้อมูลได้ผ่านทาง Pull request ได้เลยครับ
 You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
